@@ -1,2 +1,2 @@
-# pokedex
+# Pokedex
 A humble pokédex.
